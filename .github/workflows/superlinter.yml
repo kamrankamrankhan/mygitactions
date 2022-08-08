@@ -1,6 +1,6 @@
 name: Super-Linter
 
-on: push
+on: commit
 
 jobs:
   super-lint:
